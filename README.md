@@ -1,5 +1,11 @@
 <!-- ![](https://komarev.com/ghpvc/?username=Ahmed-Elhamy-Allam&color=blueviolet&label=Profile+Views) -->
 
+<div align="center">
+<!-- <img src="https://c.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif"> -->
+<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+</div>
+
+&nbsp;
 
 <h1 align="center">
   ABOUT ME
