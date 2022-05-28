@@ -216,9 +216,9 @@ I'm In Love with
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elhamy-Allam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
 
 </p>
-<p align="center">
+<!-- <p align="center">
     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elhamy-Allam&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-</p>
+</p> -->
 <p align="center">
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-Elhamy-Allam&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
