@@ -1,256 +1,136 @@
-<!-- ![](https://komarev.com/ghpvc/?username=Ahmed-Elhamy-Allam&color=blueviolet&label=Profile+Views) -->
+<!-- Palette mirrors allam.se ("Flux"): bg #120c18 · red #ff3b3b · violet #8b5cf6 · lilac #c4b5fd -->
 
-<div align="center">
-<!-- <img src="https://c.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif"> -->
-<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
-</div>
-
-&nbsp;
-
-<h1 align="center">
-  ABOUT ME
-</h1>
-
-Experienced web and mobile developer with a demonstrated history of working in the software industry. Highly skilled in crafting new customized web and mobile experiences from prototyping to a stunning published projects and a big fan of typescript.
-
-I like cycling and hiking activities in warm seasons, and in winter, i like to play chess while having a cup of hot espresso.
-
-Drop me a message! let's grab some coffee and talk about our next awesome project.
-
-&nbsp;
-
-<h1 align="center">
-I'm In Love with
-</h1>
-<p>
-<img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
-<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-<img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white" />
-<img alt="React Native" src="https://img.shields.io/badge/-React Native-61DAFB?style=flat-square&logo=React&logoColor=black" />
-<img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="Pug" src="https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=Pug&logoColor=white" />
-<img alt="CSS 3" src="https://img.shields.io/badge/-CSS 3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-<img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=SASS&logoColor=white" />
-<img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white" />
-<img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-13aa52?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat-square&logo=materialDesign&logoColor=white" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
-<img alt="NGRX" src="https://img.shields.io/badge/-NGRX-13aa52?style=flat-square&logo=NGRX&logoColor=white" />
-<img alt="NGXS" src="https://img.shields.io/badge/-NGXS-13aa52?style=flat-square&logo=NGXS&logoColor=white" />
-<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
-<img alt="RXJS" src="https://img.shields.io/badge/-RXJS-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="TFS" src="https://img.shields.io/badge/-TFS-00539F?style=flat-square&logo=TFS&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" /> 
-<img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white" /> 
-<img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=black" />
-<img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
-<img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=Jasmine&logoColor=white" />
-<img alt="Protractor" src="https://img.shields.io/badge/-Protractor-ED163A?style=flat-square&logo=Protractor&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="IIS" src="https://img.shields.io/badge/-IIS-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white" />
-<img alt="RESTful" src="https://img.shields.io/badge/-RESTful-5890FF?style=flat-square&logo=RESTful&logoColor=white" />
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=adobeXD&logoColor=white" />
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" />
-<img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white" />
-<img alt="Adobe After Effects" src="https://img.shields.io/badge/-Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
-<img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-<img alt="Angular Universal" src="https://img.shields.io/badge/-Angular Universal-DD0031?style=flat-square&logo=angularuniversal&logoColor=white" />
-<img alt="Headless UI" src="https://img.shields.io/badge/-Headless UI-66E3FF?style=flat-square&logo=Headless UI&logoColor=black" />
-<!-- <table>
-  <tr>
-    <td>Technology </td>
-  </tr>
-  <tr>
-    <td>Frameworks</td>
-    <td>
-      <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-      <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
-      <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>Mobile Development</td>
-    <td>
-      <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white" />
-      <img alt="React Native" src="https://img.shields.io/badge/-React Native-61DAFB?style=flat-square&logo=React&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td>Languages</td>
-    <td>
-      <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
-      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-      <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>Templates</td>
-    <td>
-      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img alt="Pug" src="https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=Pug&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>Styling</td>
-    <td>
-      <img alt="CSS 3" src="https://img.shields.io/badge/-CSS 3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-      <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=SASS&logoColor=white" />
-      <img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>UI Libraries</td>
-    <td>
-      <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-13aa52?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat-square&logo=materialDesign&logoColor=white" />
-      <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>State Management / JS Libraries</td>
-    <td>
-      <img alt="NGRX" src="https://img.shields.io/badge/-NGRX-13aa52?style=flat-square&logo=NGRX&logoColor=white" />
-      <img alt="NGXS" src="https://img.shields.io/badge/-NGXS-13aa52?style=flat-square&logo=NGXS&logoColor=white" />
-      <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
-      <img alt="RXJS" src="https://img.shields.io/badge/-RXJS-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>Version Control tools</td>
-    <td>
-      <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img alt="TFS" src="https://img.shields.io/badge/-TFS-00539F?style=flat-square&logo=TFS&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>Bundlers and task runners</td>
-    <td>
-        <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" /> 
-        <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white" /> 
-        <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=black" /> 
-    </td>
-  </tr>
-  <tr>
-    <td>Unit Testing / E2E testing</td>
-    <td>
-      <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
-      <img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=Jasmine&logoColor=white" />
-      <img alt="Protractor" src="https://img.shields.io/badge/-Protractor-ED163A?style=flat-square&logo=Protractor&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>Backend Languages</td>
-    <td>
-      <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>Databases</td>
-    <td>
-        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>Servers</td>
-    <td>
-      <img alt="IIS" src="https://img.shields.io/badge/-IIS-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white" />
-      <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white" />
-    </td>
-  </tr>
-    <td>APIs</td>
-    <td>
-        <img alt="RESTful" src="https://img.shields.io/badge/-RESTful-5890FF?style=flat-square&logo=RESTful&logoColor=white" />
-        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-    </td>
-  </tr>
-  </tr>
-    <td>Design Tools</td>
-    <td>
-        <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=adobeXD&logoColor=white" />
-        <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" />
-        <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white" />
-        <img alt="Adobe After Effects" src="https://img.shields.io/badge/-Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white" />
-    </td>
-  </tr>
-  </tr>
-    <td>Everyday use</td>
-    <td>
-      <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-      <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-      <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-      <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-      <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
-    </td>
-  </tr>
-  </tr>
-    <td>Worth mentioning</td>
-    <td>
-      <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-      <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-      <img alt="Angular Universal" src="https://img.shields.io/badge/-Angular Universal-DD0031?style=flat-square&logo=angularuniversal&logoColor=white" />
-      <img alt="Headless UI" src="https://img.shields.io/badge/-Headless UI-66E3FF?style=flat-square&logo=Headless UI&logoColor=black" />
-    </td>
-  </tr>
-</table> -->
-</p>
-
-&nbsp;
+<a href="https://allam.se">
+  <img width="100%" src="./assets/header.svg" alt="Ahmed Allam — Frontend Lead Developer & AI Engineer" />
+</a>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elhamy-Allam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-
+  <a href="https://allam.se"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=FF3B3B&center=true&vCenter=true&width=640&lines=I+architect+fast%2C+cinematic+web+experiences.;3D+graphics+%C2%B7+enterprise+frontend+%C2%B7+applied+AI.;Technical+Lead+Developer+%40+Telenor+%C2%B7+Stockholm+%F0%9F%87%B8%F0%9F%87%AA" alt="Typing intro" /></a>
 </p>
-<!-- <p align="center">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elhamy-Allam&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-</p> -->
+
 <p align="center">
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-Elhamy-Allam&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+  <a href="https://allam.se"><img src="https://img.shields.io/badge/allam.se-portfolio-ff3b3b?style=for-the-badge&labelColor=120c18" alt="allam.se" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-elhamy/"><img src="https://img.shields.io/badge/LinkedIn-connect-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=120c18" alt="LinkedIn" /></a>
+  <a href="mailto:hej@allam.se"><img src="https://img.shields.io/badge/hej%40allam.se-say%20hi-c4b5fd?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=120c18" alt="Email" /></a>
 </p>
 
-&nbsp;
-
-<h1 align="center">Weekly development breakdown: </h1>
-
-```text
-Angular            20 hrs 30 mins       ███████░░░     51.25%
-Javascript         13 hrs 15 mins       ██████░░░░     33.12%
-Node.js            7  hrs               ░░░░░░░░░░     17.50%
-```
-
-<div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
-
-<h1>&nbsp;</h1>
-
-<div align="center">
-<h3>If you like what i do, consider buying me a coffee</h3>
-
-&nbsp;
-
-<a href="https://www.buymeacoffee.com/AhmedAllam"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=AhmedAllam&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff"></a>
-</div>
-
-&nbsp;
-
-<h2 align="center">
-Contact me on
-</h2>
-&nbsp;
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmed-elhamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Elhamy" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/14%2B-years%20shipping-ff3b3b?style=flat-square&labelColor=1f1529" />
+  <img src="https://img.shields.io/badge/21%2B-web%20apps%20launched-ff3b3b?style=flat-square&labelColor=1f1529" />
+  <img src="https://img.shields.io/badge/11-micro--frontend%20apps-8b5cf6?style=flat-square&labelColor=1f1529" />
+  <img src="https://img.shields.io/badge/60fps-obsession-c4b5fd?style=flat-square&labelColor=1f1529" />
 </p>
+
+---
+
+### 👋 Hej, I'm Allam
+
+Egyptian by birth, Stockholm by choice. I lead frontend teams building high-performance interfaces, real-time 3D experiences, micro-frontend platforms, and AI-augmented products that ship.
+
+- 🔭 **Now:** Technical Lead Developer at **Telenor Sweden** — 11 frontends unified on one Module Federation platform
+- 🧠 **Exploring:** RAG pipelines, LLM agents and streaming AI UIs
+- 🥇 **Recently:** back-to-back Telenor hackathon wins with Generative AI
+- 🤝 **Giving back:** volunteer technical mentor on [ADPList](https://adplist.org) — portfolio reviews, tech debt and career advice
+- 💬 **Ask me anything** — or ask **Lily**, the AI copilot on [allam.se](https://allam.se), which knows my work better than my CV does
+
+---
+
+### 🛠 Selected work
+
+| | Project | What it is |
+|---|---|---|
+| 🧩 | [**Enterprise Micro-Frontend Platform**](https://allam.se/projects/enterprise-micro-frontend-platform) | Module Federation platform unifying 11 mission-critical frontends at Telenor Sweden · Vue 3, TS |
+| 🎨 | [**Global UI Component Library**](https://allam.se/projects/global-ui-component-library) | Token-driven design system powering cross-region products at Telenor and Diyar |
+| 🏢 | [**Multi-tenant SaaS Suite**](https://allam.se/projects/multi-tenant-saas-suite) | SSO, RBAC and mobile companions — recognised with an innovation award · Angular, Node |
+| 🤖 | [**Lily AI Copilot**](https://allam.se/projects/lily-ai-copilot) | Streaming, retrieval-augmented assistant running on my portfolio |
+| 🌌 | [**WebGL Creative Campaigns**](https://allam.se/projects/webgl-creative-campaigns) | Award-nominated WebGL + SVG-animated campaign sites for global brands |
+| 📦 | [**isMobile**](https://www.npmjs.com/package/@its-mix/ismobile) | Tiny zero-dependency npm package for mobile detection |
+
+<p align="right"><a href="https://allam.se/#projects">All 30+ projects →</a></p>
+
+---
+
+### ⚡ Toolbox
+
+**Frontend**&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+**Architecture**&nbsp;
+<img src="https://img.shields.io/badge/Micro--Frontends-120c18?style=flat-square" />
+<img src="https://img.shields.io/badge/Module_Federation-120c18?style=flat-square&logo=webpack&logoColor=8DD6F9" />
+<img src="https://img.shields.io/badge/Design_Systems-120c18?style=flat-square&logo=storybook&logoColor=FF4785" />
+<img src="https://img.shields.io/badge/Multi--tenant_SaaS-120c18?style=flat-square" />
+<img src="https://img.shields.io/badge/RBAC_%C2%B7_SSO-120c18?style=flat-square" />
+
+**3D & Motion**&nbsp;
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL_%2F_GLSL-990000?style=flat-square&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/R3F-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" />
+
+**AI Engineering**&nbsp;
+<img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/Vector_DBs-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM_Agents-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+
+**Backend & Ops**&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+
+**Quality**&nbsp;
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/WCAG-005A9C?style=flat-square" />
+<img src="https://img.shields.io/badge/Perf_Budgets-ff3b3b?style=flat-square" />
+
+---
+
+### ✍️ Writing
+
+- [Micro-Frontends at Scale: 11 Apps, One Team, Zero Chaos](https://allam.se/articles/micro-frontends-at-scale)
+- [How We Won Two Hackathons in Two Weeks with Generative AI](https://allam.se/articles/two-hackathon-wins-generative-ai)
+- [RAG from Scratch: Grounding LLMs in Your Own Documents](https://allam.se/articles/rag-from-scratch)
+- [60fps or It Didn't Happen: Performance Budgets That Actually Work](https://allam.se/articles/60fps-performance-budgets)
+- [The Technical Lead's First 90 Days](https://allam.se/articles/technical-lead-first-90-days)
+
+<p align="right"><a href="https://allam.se/#articles">More articles →</a></p>
+
+---
+
+### 🏆 Recognition
+
+🥇 **Hackathon Champion ×2** — Telenor, Generative AI (2024) &nbsp;·&nbsp;
+🏆 **TIEC Innovation Prize** — 1st prize, e-motion &nbsp;·&nbsp;
+🏆 **Innovation Award** — FlairsTech
+
+---
+
+### ♟️ Beyond code
+
+Chess for the endgames, long-distance cycling for the reset, hiking for the ideas that only show up on a trail. Ideally with an espresso nearby. ☕
+
+---
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elhamy-Allam&show_icons=true&hide_border=true&bg_color=120c18&title_color=ff3b3b&icon_color=8b5cf6&text_color=e0e0e0&ring_color=ff3b3b" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Ahmed-Elhamy-Allam&hide_border=true&background=120c18&ring=FF3B3B&fire=8B5CF6&currStreakLabel=FF3B3B&sideLabels=C4B5FD&dates=E0E0E0&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1F1529" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <a href="https://allam.se"><b>allam.se</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ahmed-elhamy/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:hej@allam.se">hej@allam.se</a> &nbsp;·&nbsp;
+  <a href="https://www.buymeacoffee.com/AhmedAllam">Buy me a coffee ☕</a>
+</p>
+
+<img width="100%" src="./assets/footer.svg" alt="" />
